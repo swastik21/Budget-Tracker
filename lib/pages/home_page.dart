@@ -229,7 +229,7 @@ class _AddTransactionDialogState extends State<AddTransactionDialog> {
               inputFormatters: <TextInputFormatter>[
                 FilteringTextInputFormatter.digitsOnly
               ],
-              decoration: const InputDecoration(hintText: "Amount in \$"),
+              decoration: const InputDecoration(hintText: "Amount in ₹"),
             ),
             Row(
               children: [
