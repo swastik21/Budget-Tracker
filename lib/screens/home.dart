@@ -103,7 +103,7 @@ class _AddBudgetDialogState extends State<AddBudgetDialog> {
             TextField(
               controller: amountController,
               keyboardType: TextInputType.number,
-              decoration: const InputDecoration(hintText: "Budget in \$"),
+              decoration: const InputDecoration(hintText: "Budget in ₹"),
             ),
             const SizedBox(
               height: 15,
