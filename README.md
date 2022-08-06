@@ -9,13 +9,13 @@
 
 ## Download App
 
-- #### Android : [Download BudgetTracker.apk](https://github.com/swastik21/Budget-Tracker/main/releases/download/v1.0.0/Budgettracker-v1.0.0.apk)
+- #### Android : [Download BudgetTracker.apk](https://github.com/swastik21/Budget-Tracker/blob/main/releases/download/v1.0.0/Budgettracker-v1.0.0.apk)
 
 - #### IOS : _Coming soon ..._(once i get a macbook)
 
 ## ScreenShots
 
-<img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(7).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(3).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(4).jpeg?raw=true" width ="95%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(5).jpeg?raw=true" width ="95%">
+<img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(7).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(3).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(4).jpeg?raw=true" width ="95%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(5).jpeg?raw=true" width ="95%">
 
 ## Brief About App
 
