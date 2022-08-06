@@ -15,7 +15,7 @@
 
 ## ScreenShots
 
-<img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(3).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(4).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(5).jpeg?raw=true" width ="33%">
+<img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(3).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(4).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot%20(5).jpeg?raw=true" width ="33%">
 
 ## Brief About App
 
