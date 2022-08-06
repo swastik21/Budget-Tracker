@@ -15,11 +15,11 @@
 
 ## ScreenShots
 
-<img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(7).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(3).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(4).jpeg?raw=true" width ="95%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(5).jpeg?raw=true" width ="95%">
+<img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(2).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(3).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(4).jpeg?raw=true" width ="95%"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/screenshots/screenshot(5).jpeg?raw=true" width ="95%">
 
 ## Brief About App
 
-An App where you can track your expenses and limit it to your budget. The data won't be lost even if you reinstall your app as it is saved in your device.
+An App where you can track your expenses and limit it to your budget seemlesly. The data won't be lost even if you reinstall your app as it is saved in your device.
 
 ### Features
 
