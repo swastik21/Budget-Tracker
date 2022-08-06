@@ -1,6 +1,6 @@
 # Budget Tracker
 
-<p align="center"><a href="https://github.com/swastik21/Budget-Tracker"><img src="https://github.com/swastik21/Budget-Tracker/assets/icon/Rupee-Symbol-White.png?raw=true" width="150" height="auto" style="border-radius:60%"></a></p>
+<p align="center"><a href="https://github.com/swastik21/Budget-Tracker"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/icon/Rupee-Symbol-White.png?raw=true" width="150" height="auto" style="border-radius:60%"></a></p>
 
 <h2 align="center" ><span style="font-size:100%"> A Mobile App to track budget effortlessly.</span><h2/>
 <h3 align="center" ><span style="font-size:100%"> Simple and friendly UI. No sensless analytics clogging your app and endless entries.</span><h3/>
@@ -9,13 +9,13 @@
 
 ## Download App
 
-- #### Android : [Download BudgetTracker.apk](https://github.com/swastik21/Budget-Tracker/releases/download/v1.0.0/Budgettracker-v1.0.0.apk)
+- #### Android : [Download BudgetTracker.apk](https://github.com/swastik21/Budget-Tracker/main/releases/download/v1.0.0/Budgettracker-v1.0.0.apk)
 
 - #### IOS : _Coming soon ..._(once i get a macbook)
 
 ## ScreenShots
 
-<img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(7).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(3).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(4).jpeg?raw=true" width ="95%"><img src="https://github.com/swastik21/Budget-Tracker/assets/screenshots/screenshot(5).jpeg?raw=true" width ="95%">
+<img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(1).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(2).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(6).jpeg?raw=true" width ="33%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(7).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(3).jpeg?raw=true" width ="48%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(4).jpeg?raw=true" width ="95%"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/screenshots/screenshot(5).jpeg?raw=true" width ="95%">
 
 ## Brief About App
 
