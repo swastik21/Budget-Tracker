@@ -1,6 +1,6 @@
 # Budget Tracker
 
-<p align="center"><a href="https://github.com/swastik21/Budget-Tracker"><img src="https://github.com/swastik21/Budget-Tracker/main/assets/icon/Rupee-Symbol-White.png?raw=true" width="150" height="auto" style="border-radius:60%"></a></p>
+<p align="center"><a href="https://github.com/swastik21/Budget-Tracker"><img src="https://github.com/swastik21/Budget-Tracker/blob/main/assets/icon/Rupee-Symbol-White.png?raw=true" width="150" height="auto" style="border-radius:60%"></a></p>
 
 <h2 align="center" ><span style="font-size:100%"> A Mobile App to track budget effortlessly.</span><h2/>
 <h3 align="center" ><span style="font-size:100%"> Simple and friendly UI. No sensless analytics clogging your app and endless entries.</span><h3/>
