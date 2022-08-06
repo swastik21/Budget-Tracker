@@ -9,7 +9,7 @@
 
 ## Download App
 
-- #### Android : [Download BudgetTracker.apk](https://github.com/swastik21/Budget-Tracker/tree/main/releases/download/v1.0.0/BudgetTracker-v1.0.0.apk)
+- #### Android : [Download BudgetTracker.apk](https://github.com/swastik21/Budget-Tracker/raw/main/releases/download/v1.0.0/BudgetTracker-v1.0.0.apk)
 
 - #### IOS : _Coming soon ..._(once i get a macbook)
 
