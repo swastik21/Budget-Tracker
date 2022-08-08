@@ -28,6 +28,14 @@ An App where you can track your expenses and limit it to your budget seemlesly. 
 - Add salary/income
 - Dark Mode support
 
+### Dependencies
+
+- percent_indicator: ^3.4.0
+- provider: ^6.0.2
+- shared_preferences: ^2.0.13
+- hive: ^2.2.3
+- hive_flutter: ^1.1.0
+
 ## Clone Repository
 
 Open Your `Terminal` and `Paste`
