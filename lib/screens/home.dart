@@ -1,5 +1,4 @@
 import 'package:budget_tracker/pages/home_page.dart';
-import 'package:budget_tracker/pages/profile_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../services/theme_service.dart';
@@ -13,18 +12,6 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  // List<BottomNavigationBarItem> bottomNavItems = const [
-  //   BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
-  //   BottomNavigationBarItem(icon: Icon(Icons.person), label: "Profile"),
-  // ];
-
-  // List<Widget> pages = const [
-  //   HomePage(),
-  //   ProfilePage(),
-  // ];
-
-  // int _currentpageIndex = 0;
-
   @override
   Widget build(BuildContext context) {
     final themeService = Provider.of<ThemeService>(context);
@@ -58,14 +45,6 @@ class _HomeState extends State<Home> {
         title: const Text("Budget Tracker"),
       ),
       body: const HomePage(),
-      // body: pages[_currentpageIndex],
-      // bottomNavigationBar: BottomNavigationBar(
-      //   currentIndex: _currentpageIndex,
-      //   items: bottomNavItems,
-      //   onTap: (index) => setState(() {
-      //     _currentpageIndex = index;
-      //   }),
-      // ),
     );
   }
 }

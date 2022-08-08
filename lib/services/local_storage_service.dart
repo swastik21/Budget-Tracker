@@ -47,13 +47,23 @@ class LocalStorageService {
     saveBalanceOnDelete(transaction);
   }
 
+  double exceptionHandling(double currentbalance, double amount) {
+    double result = currentbalance - amount;
+    if (result < 0) result = 0;
+    return result;
+  }
+
+  double exceptionHandling_2(double currentbalance, double amount) {
+    return currentbalance == 0 ? 0 : currentbalance + amount;
+  }
+
   Future<void> saveBalance(TransactionItem item) async {
     final balanceBox = Hive.box<double>(balanceBoxKey);
     final currentbalance = balanceBox.get("balance") ?? 0;
     if (item.isExpense) {
       balanceBox.put("balance", currentbalance + item.amount);
     } else {
-      balanceBox.put("balance", currentbalance - item.amount);
+      balanceBox.put("balance", exceptionHandling(currentbalance, item.amount));
     }
   }
 
@@ -63,7 +73,8 @@ class LocalStorageService {
     if (item.isExpense) {
       balanceBox.put("balance", currentbalance - item.amount);
     } else {
-      balanceBox.put("balance", currentbalance + item.amount);
+      balanceBox.put(
+          "balance", exceptionHandling_2(currentbalance, item.amount));
     }
   }
 
